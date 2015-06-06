@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # farm_presentasi
+=======
+# Hello World
+>>>>>>> dce431f93dfea355bc9785c9a374f24aef05b819
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
 ## View slides locally
