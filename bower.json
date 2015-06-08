@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "presentation-farm-presentasi",
-=======
-  "name": "presentation-hello-world",
->>>>>>> dce431f93dfea355bc9785c9a374f24aef05b819
+  "name": "presentation-test1",
   "version": "0.0.0",
   "dependencies": {}
 }

@@ -1,25 +1,15 @@
 {
-<<<<<<< HEAD
-  "name": "presentation-farm-presentasi",
-=======
-  "name": "presentation-hello-world",
->>>>>>> dce431f93dfea355bc9785c9a374f24aef05b819
+  "name": "presentation-test1",
   "version": "0.0.0",
   "dependencies": {},
   "devDependencies": {
     "bespoke": "^1.0.0",
-<<<<<<< HEAD
     "bespoke-backdrop": "^1.0.0",
     "bespoke-bullets": "^1.0.0",
     "bespoke-hash": "^1.0.0",
     "bespoke-keys": "^1.0.0",
     "bespoke-progress": "^1.0.0",
     "bespoke-scale": "^1.0.0",
-=======
-    "bespoke-hash": "^1.0.0",
-    "bespoke-keys": "^1.0.0",
-    "bespoke-progress": "^1.0.0",
->>>>>>> dce431f93dfea355bc9785c9a374f24aef05b819
     "bespoke-theme-cube": "^2.0.0",
     "bespoke-touch": "^1.0.0",
     "debowerify": "^0.7.1",
