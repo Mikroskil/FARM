@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # test
+=======
+# test1
+>>>>>>> 1f0dc8937954758dbcd6a156bf6ee62d93415283
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
 ## View slides locally

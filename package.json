@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "presentation-test",
+=======
+  "name": "presentation-test1",
+>>>>>>> 1f0dc8937954758dbcd6a156bf6ee62d93415283
   "version": "0.0.0",
   "dependencies": {},
   "devDependencies": {
