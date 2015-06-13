@@ -1,13 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "presentation-farm-presentasi",
-=======
-<<<<<<< HEAD
-  "name": "presentation-test",
-=======
-  "name": "presentation-test1",
->>>>>>> 1f0dc8937954758dbcd6a156bf6ee62d93415283
->>>>>>> 64c4a457c52eba91d830914358a92c8cd1372f7c
   "version": "0.0.0",
   "dependencies": {},
   "devDependencies": {
