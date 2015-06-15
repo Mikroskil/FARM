@@ -67,7 +67,7 @@ article.bespoke-parent {
   margin-top: -240px;
   left: 50%;
   margin-left: -320px;
-  background: #fff;
+  background: url("sukses4.jpeg");
   padding: 40px;
   border-radius: 0;
 }
@@ -163,12 +163,12 @@ li.bespoke-bullet-inactive {
   transition: width 0.6s ease;
   position: absolute;
   height: 100%;
-  background: #0089f3;
+  background: #0589f3;
   border-radius: 0 4px 4px 0;
 }
 .emphatic,
 .emphatic .bespoke-slide {
-  background: #fff;
+  background: url("sukses4.jpeg");
 }
 pre {
   padding: 26px !important;
@@ -178,7 +178,8 @@ body {
   font-family: helvetica, arial, sans-serif;
   font-size: 18px;
   color: #00f;
-  background-color: #f0f;
+  background-color: #000;
+  opacity: 3;
 }
 h1 {
   font-size: 72px;
@@ -195,7 +196,7 @@ h3 {
   font-size: 24px;
   font-weight: normal;
   margin-bottom: 24px;
-  color: #606060;
+  color: #6060ff;
 }
 hr {
   visibility: hidden;
@@ -218,9 +219,9 @@ a {
   text-decoration: none;
 }
 .a {
-  color: #f00;
+  background-color: #808080;
+  background-image: url("/../images/latar.jpg");
 }
-section {
-  background-color: #f00;
-  margin: 8px;
+#ax {
+  background: transparent;
 }
