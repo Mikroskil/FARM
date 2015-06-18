@@ -222,6 +222,17 @@ a {
   background-color: #808080;
   background-image: url("/../images/latar.jpg");
 }
-#ax {
-  background: transparent;
+.ax {
+  background-image: url("/../images/sukses4.jpg");
+}
+.bx {
+  background-image: url("/../images/sukses2.jpg");
+  color: #fff;
+}
+.cx {
+  color: #fff;
+  opacity: 90;
+}
+.bottom {
+  margin-bottom: -250px;
 }
