@@ -233,6 +233,10 @@ a {
   color: #fff;
   opacity: 90;
 }
+.dx {
+  background-image: url("/../images/sukses3.jpg");
+  color: #a52a2a;
+}
 .bottom {
   margin-bottom: -250px;
 }
