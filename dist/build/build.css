@@ -237,6 +237,10 @@ a {
   background-image: url("/../images/sukses3.jpg");
   color: #a52a2a;
 }
+.ex {
+  background-image: url("/../images/sukses5.jpg");
+  color: #f00;
+}
 .bottom {
   margin-bottom: -250px;
 }
