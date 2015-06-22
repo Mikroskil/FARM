@@ -233,6 +233,18 @@ a {
   color: #fff;
   opacity: 90;
 }
+.dx {
+  background-image: url("/../images/sukses3.jpg");
+  color: #a52a2a;
+}
+.ex {
+  background-image: url("/../images/sukses5.jpg");
+  color: #f00;
+}
+.fx {
+  background-image: url("/../images/sukses6.jpg");
+  color: #fff;
+}
 .bottom {
   margin-bottom: -250px;
 }
