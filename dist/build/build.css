@@ -177,7 +177,7 @@ pre {
 body {
   font-family: helvetica, arial, sans-serif;
   font-size: 18px;
-  color: #00f;
+  color: #f00;
   background-color: #000;
   opacity: 3;
 }
@@ -227,7 +227,7 @@ a {
 }
 .bx {
   background-image: url("/../images/sukses2.jpg");
-  color: #fff;
+  color: #f00;
 }
 .cx {
   color: #fff;
@@ -243,7 +243,7 @@ a {
 }
 .fx {
   background-image: url("/../images/sukses6.jpg");
-  color: #fff;
+  color: #f00;
 }
 .bottom {
   margin-bottom: -250px;
