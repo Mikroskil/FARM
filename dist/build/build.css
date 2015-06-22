@@ -250,6 +250,11 @@ a {
   background-image: url("/../images/sukses7.jpg");
   color: #f00;
 }
+.hx {
+  background-image: url("/../images/sukses8.jpg");
+  color: #f00;
+  font-size: 48px;
+}
 .bottom {
   margin-bottom: -250px;
 }
