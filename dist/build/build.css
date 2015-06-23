@@ -136,7 +136,7 @@ li.bespoke-bullet-inactive {
   transition: width 0.6s ease;
   position: absolute;
   height: 100%;
-  background: #0589f3;
+  background: #f00;
   border-radius: 0 4px 4px 0;
 }
 .emphatic,
